@@ -1,0 +1,5 @@
+debug true
+serverIP 127.0.0.1
+serverPORT 8001
+dataFolder C:/DataFolder
+timeOut 40
